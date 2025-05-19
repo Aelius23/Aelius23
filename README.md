@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Spencer — aka Aelius23
 
-<!--
-**Aelius23/Aelius23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder-brained, system-whispering creative technologist.  
+I design tools, pipelines, and UI that feel like signal in the noise.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Currently working on:
+- **AI-powered video tools** (After Effects plugin, lip sync pipeline, Matrix media scrapers)
+- **Signal processing & data viz** for scientific + narrative systems
+- **Experimental interfaces** for mystical UX + creator infrastructure
+
+---
+
+### 🧪 Projects
+- 🎞️ `Splut`: After Effects split-screen plugin (shipped)
+- 🧵 `Matrix Channel Scraper`: UI for extracting media archives from decentralized chat
+- 🌌 `LIGO Data Explorer`: Early-stage pipeline for gravitational wave data
+- 🧠 `Wav2Lip Playground`: Facial synthesis experiment in Colab
+
+---
+
+### 🛰️ Looking to:
+Support a founder or research team that needs:
+- Calm, high-context ops support  
+- Storytelling through systems  
+- Someone who can design the interface *and* the underlying logic
+
+---
+
+### 🌐 Connect
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/spencer-toulouse-43276830/))  
+- [Website](https://spencer-video.com) *(optional)*  
+- Reach out if you think weird tools are going to save the world.
