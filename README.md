@@ -14,9 +14,9 @@ I design tools, pipelines, and UI that feel like signal in the noise.
 ---
 
 ### 🧪 Projects
-- 🎞️ `Splut`: After Effects split-screen plugin (shipped)
+- 🎞️ `Splut`: After Effects split-screen plugin (shipped) https://toulouse4.gumroad.com/l/Splut
 - 🧵 `Matrix Channel Scraper`: UI for extracting media archives from decentralized chat
-- 🌌 `LIGO Data Explorer`: Early-stage pipeline for gravitational wave data
+- 🌌 `LIGO Data Explorer`: Early-stage pipeline for gravitational wave data 
 - 🧠 `Wav2Lip Playground`: Facial synthesis experiment in Colab
 
 ---
