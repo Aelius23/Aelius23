@@ -32,4 +32,4 @@ Support a founder or research team that needs:
 ### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/spencer-toulouse-43276830/)
 - [Website](https://spencer-video.com)  
-- Reach out if you think weird tools are going to save the world.
+
