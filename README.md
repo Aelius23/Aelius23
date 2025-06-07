@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/685066ee-f467-4e2e-a305-422bd59b1642)# Hi, I'm Spencer — aka Aelius23
+# Hi, I'm Spencer — aka Aelius23
 
 Founder-brained, system-whispering creative technologist.  
 I design tools, pipelines, and UI that feel like signal in the noise.
