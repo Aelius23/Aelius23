@@ -12,7 +12,7 @@ I design tools, pipelines, and UI that feel like signal in the noise.
 - **AI-powered video tools** 
 - **Signal processing & data viz** for scientific + narrative systems
 - **Experimental interfaces** for mystical UX + creator infrastructure
-(Plus some theorhetical physics stuff) (Also Join my 270 person and growing channel on [FIDE)](https://www.fide.co/) search: AI Esotericism
+(Plus some theorhetical physics stuff) (Also Join my 370 person and growing channel on [FIDE)](https://www.fide.co/) search: AI Esotericism
 
 ---
 
