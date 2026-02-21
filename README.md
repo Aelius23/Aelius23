@@ -26,7 +26,7 @@ I design tools, pipelines, and UI that feel like signal in the noise.
 
 ### 🛰️ Looking to:
 Support a founder or research team that needs:
-- Calm, high-context ops support  
+- High-context ops support  
 - Storytelling through systems  
 - Someone who can design the interface *and* the underlying logic
 
