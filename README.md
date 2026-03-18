@@ -34,5 +34,5 @@ Support a founder or research team that needs:
 
 ### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/spencer-toulouse-43276830/)
-- [Website](https://spencer-video.com)  
+- [Website from my old life](https://spencer-video.com)  
 
