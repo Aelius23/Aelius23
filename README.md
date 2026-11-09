@@ -1,38 +1,38 @@
-# Hi, I'm Spencer — aka Aelius23
+# Spencer Toulouse
 
-Founder-brained, system-whispering creative technologist.  
-I design tools, pipelines, and UI that feel like signal in the noise.
+**Startup operator & creative technologist working across AI, automation, data analysis, and business systems.**
 
-![image](https://github.com/user-attachments/assets/26845b01-106f-4436-b51e-52d06dc38efe)
+I build tools, workflows, and interfaces that turn complex problems into usable systems.
 
-
----
-
-### 🧰 Currently working on:
-- **AI-powered video tools** 
-- **Signal processing & data viz** for scientific + narrative systems
-- **Experimental interfaces** for mystical UX + creator infrastructure
-
+My background spans creative production, software experimentation, business operations, and partnerships. Currently working across revenue analysis, operational strategy, and technical projects at an AI education startup.
 
 ---
 
-### 🧪 Projects
-- 🎞️ `Splut`: After Effects split-screen plugin (shipped) https://toulouse4.gumroad.com/l/Splut
-- 🧵 `Matrix Channel Scraper`: animating UI bedazzled dashboard for extracting media archives from popular decentralized chat service Matrix
-- 🌌 `LIGO Data Explorer`: Early-stage pipeline for gravitational wave data avec analyzers
-- 🧠 `Wav2Lip Playground`: Facial synthesis experiment in Colab
+### 🧰 Areas of Work
+
+- **Business operations:** Revenue analysis, performance dashboards, partnerships, and workflow improvement
+- **Automation & AI:** Python tools, generative AI workflows, and creative production pipelines
+- **Data & interfaces:** Signal processing, visualization, UI prototyping, and experimental software
 
 ---
 
-### 🛰️ Looking to:
-Support a founder or research team that needs:
-- High-context ops support  
-- Storytelling through systems  
-- Someone who can design the interface *and* the underlying logic
+### 🧪 Selected Projects
+
+- 🎞️ **[Splut](https://toulouse4.gumroad.com/l/Splut)**: Shipped After Effects plugin for split-screen production workflows
+- 🧵 **Matrix Channel Scraper**: Interface for extracting and organizing media archives from Matrix channels
+- 🌌 **LIGO Data Explorer**: Experimental gravitational-wave data analysis pipeline
+- 🧠 **Wav2Lip Playground**: Facial synthesis experiments using Google Colab
+
+---
+
+### 🛰️ What I Bring
+
+I work across technical and nontechnical teams, connecting business objectives with practical execution.
+
+My experience includes performance analysis, partner relationships, project coordination, creative production, and hands-on technical experimentation.
 
 ---
 
 ### 🌐 Connect
-- [LinkedIn](https://www.linkedin.com/in/spencer-toulouse-43276830/)
 
-
+[LinkedIn](https://www.linkedin.com/in/spencer-toulouse-43276830/)
